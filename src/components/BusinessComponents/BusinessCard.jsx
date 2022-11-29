@@ -5,7 +5,7 @@ import { BsFillStarFill } from "react-icons/bs"
 export const BusinessCard = ({ hit }) => {
 
   return (
-		<div className="flex flex-col max-w-sm bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700 p-5 w-96 h-40">
+		<div className="flex flex-col max-w-sm bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700 p-5 xl:w-96 h-40">
 			<div className="flex-grow">
 				<div className="flex justify-between">
 					<div className="flex flex-col">

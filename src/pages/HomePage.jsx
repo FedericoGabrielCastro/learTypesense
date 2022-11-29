@@ -7,12 +7,12 @@ const HomePage = () => {
         <div className='flex pt-5 flex-col items-center justify-center w-screen'>
             <p className=' text-gray-400 p-5'>Here below the ranking with the largest companies in the world, by their market capitalization on May 17, 2022, in billions of dollars:</p>
             <div className='pb-5 pt-5'  >
-                <Pagination />
+                <Pagination className="scale-75 lg:scale-100"/>
             </div>
             <div className='text-blue-600'>
                 <BusinessContent />
             </div>            
-            <footer className='pb-5 pt-5'>
+            <footer className='pb-5 pt-5 className="scale-75 lg:scale-100"'>
                 <Pagination />
             </footer>
         </div>

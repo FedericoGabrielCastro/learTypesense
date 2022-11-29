@@ -43,8 +43,6 @@ const CustomNavbar = () => {
                                 </>
                                 : <button onClick={handleSetTopics} className="bg-sky-600 w-32 h-10 rounded-lg text-white "> Topics </button>
                         }
-
-                        
                     </div>
                 </div>
             </nav>

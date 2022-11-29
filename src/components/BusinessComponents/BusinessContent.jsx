@@ -4,7 +4,7 @@ import { BusinessCard } from "./BusinessCard";
 
 const BusinessContent = ({ hits }) => {
     return (
-        <div className="grid grid-cols-3 gap-1">
+        <div className="grid gap-1 xl:grid-cols-3 lg:grid-cols-2">
             {hits.map((hit) => (
                 <BusinessCard key={hit.ObjectID} hit={hit} />
             ))}
