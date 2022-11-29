@@ -1,13 +1,7 @@
 import { useState } from "react";
 import { AiOutlineAppstoreAdd, AiOutlineCloseCircle } from "react-icons/ai"
-import { BsArrowBarLeft, BsArrowBarRight } from "react-icons/bs"
-import {
-    InstantSearch,
-    Pagination,
-    RefinementList,
-    SearchBox,
-} from "react-instantsearch-dom";
-
+import { RefinementList, SearchBox } from "react-instantsearch-dom";
+import BussinessFinded from "../BussinessFinded/BussinessFinded";
 
 const CustomNavbar = () => {
 
@@ -32,7 +26,7 @@ const CustomNavbar = () => {
             </nav>
             <nav className="bg-gray-50 dark:bg-gray-700">
                 <div className="max-w-screen-xl px-4 py-3 mx-auto md:px-6">
-                    <div className="text-gray-700">
+                    <div className="text-gray-700 flex gap-5 align-middle">
                         {
                             topics ?
                                 <>
@@ -42,6 +36,12 @@ const CustomNavbar = () => {
                                     <RefinementList attribute="sector" className="flex flex-auto align-middle text-gray-700"/>
                                 </>
                                 : <button onClick={handleSetTopics} className="bg-sky-600 w-32 h-10 rounded-lg text-white "> Topics </button>
+                        }
+                        {
+                            topics ? null :
+                            <div className="flex flex-col align-middle justify-center text-center pl-1 pr-1">
+                                <BussinessFinded />
+                            </div>
                         }
                     </div>
                 </div>
