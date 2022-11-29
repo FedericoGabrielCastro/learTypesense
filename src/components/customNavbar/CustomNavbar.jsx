@@ -39,7 +39,7 @@ const CustomNavbar = () => {
                                     <button className="absolute right-0 pr-5 text-3xl" onClick={handleSetTopics}>
                                         <AiOutlineCloseCircle />
                                     </button>
-                                    <RefinementList attribute="genres" className="flex flex-auto align-middle text-gray-700"/>
+                                    <RefinementList attribute="sector" className="flex flex-auto align-middle text-gray-700"/>
                                 </>
                                 : <button onClick={handleSetTopics} className="bg-sky-600 w-32 h-10 rounded-lg text-white "> Topics </button>
                         }
