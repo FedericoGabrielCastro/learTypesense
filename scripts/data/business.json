@@ -1,0 +1,802 @@
+[
+    {
+        "id": "1",
+        "market_stall": 1,
+        "business": "Aramco",
+        "country": "Saudi Arabia",
+        "sector": ["Petroleum"],
+        "market_capitalization": 2492.60
+    },
+    {
+        "id": "2",
+        "market_stall": 2,
+        "business": "Apple Inc",
+        "country": "United States",
+        "sector": ["Technology", "Hardware"],
+        "market_capitalization": 2355.59
+    },
+    {
+        "id": "3",
+        "market_stall": 3,
+        "business": "Microsoft Corp",
+        "country": "United States",
+        "sector": ["Technology", "Software"],
+        "market_capitalization": 1955.77 
+    },
+    {
+        "id": "4",
+        "market_stall": 4,
+        "business": "Alphabet Inc",
+        "country": "United States",
+        "sector": ["Interactive media and services"],
+        "market_capitalization": 1509.57
+    },
+    {
+        "id": "5",
+        "market_stall": 5,
+        "business": "Amazon.Com Inc",
+        "country": "United States",
+        "sector": ["Internet retail"],
+        "market_capitalization": 1127.43 
+    },
+    {
+        "id": "6",
+        "market_stall": 6,
+        "business": "Tesla Inc",
+        "country": "United States",
+        "sector": ["Automobiles"],
+        "market_capitalization": 750.45 
+    },
+    {
+        "id": "7",
+        "market_stall": 7,
+        "business": "Berkshire hathaway",
+        "country": "United States",
+        "sector": ["Diversified financial services"],
+        "market_capitalization": 682.58 
+    },
+    {
+        "id": "8",
+        "market_stall": 8,
+        "business": "Meta Platforms",
+        "country": "United States",
+        "sector": ["Interactive media and services"],
+        "market_capitalization": 541.37
+    },
+    {
+        "id": "9",
+        "market_stall": 9,
+        "business": "Johnson&Johnson",
+        "country": "United States",
+        "sector": ["Pharmaceutical"],
+        "market_capitalization": 468.60
+    },
+    {
+        "id": "10",
+        "market_stall": 10,
+        "business": "Unitedhealth Grp",
+        "country": "United States",
+        "sector": ["Health"],
+        "market_capitalization": 458.97 
+    },
+    {
+        "id": "11",
+        "market_stall": 11,
+        "business": "Tsmc",
+        "country": "Taiwan",
+        "sector": ["Semiconductors"],
+        "market_capitalization": 454.35 
+    },
+    {
+        "id": "12",
+        "market_stall": 12,
+        "business": "Nvidia Corp",
+        "country": "United States",
+        "sector": ["Semiconductors"],
+        "market_capitalization": 432.29 
+    },
+    {
+        "id": "13",
+        "market_stall": 13,
+        "business": "Tencent",
+        "country": "China",
+        "sector": ["Interactive media and services"],
+        "market_capitalization": 428.58 
+    },
+    {
+        "id": "14",
+        "market_stall": 14,
+        "business": "Visa Inc",
+        "country": "United States",
+        "sector": ["IT services"],
+        "market_capitalization": 425.26 
+    },
+    {
+        "id": "15",
+        "market_stall": 15,
+        "business": "Walmart Inc",
+        "country": "United States",
+        "sector": ["Retail"],
+        "market_capitalization": 407.99 
+    },
+    {
+        "id": "16",
+        "market_stall": 16,
+        "business": "Exxon Mobil Corp",
+        "country": "United States",
+        "sector": ["Petroleum"],
+        "market_capitalization": 383.13 
+    },
+    {
+        "id": "17",
+        "market_stall": 17,
+        "business": "Procter & Gamble",
+        "country": "United States",
+        "sector": ["Household products"],
+        "market_capitalization": 372.18 
+    },
+    {
+        "id": "18",
+        "market_stall": 18,
+        "business": "Nestlé",
+        "country": "Swiss",
+        "sector": ["Food products"],
+        "market_capitalization": 349.49 
+    },
+    {
+        "id": "19",
+        "market_stall": 19,
+        "business": "JP Morgan Chase",
+        "country": "United States",
+        "sector": ["Banks"],
+        "market_capitalization": 347.34 
+    },
+    {
+        "id": "20",
+        "market_stall": 20,
+        "business": "Chevron Corp",
+        "country": "United States",
+        "sector": ["Petroleum"],
+        "market_capitalization": 339.93 
+    },
+    {
+        "id": "21",
+        "market_stall": 21,
+        "business": "Kweichow Mouta",
+        "country": "China",
+        "sector": ["Beverages"],
+        "market_capitalization": 328.26
+    },
+    {
+        "id": "22",
+        "market_stall": 22,
+        "business": "Mastercard Inc",
+        "country": "United States",
+        "sector": ["IT services"],
+        "market_capitalization": 320.71 
+    },
+    {
+        "id": "23",
+        "market_stall": 23,
+        "business": "Samsung",
+        "country": "South Korea",
+        "sector": ["Technology", "Hardware"],
+        "market_capitalization": 312.45
+    },
+    {
+        "id": "24",
+        "market_stall": 24,
+        "business": "Home Depot Inc",
+        "country": "United States",
+        "sector": ["Retail"],
+        "market_capitalization": 306.37
+    },
+    {
+        "id": "25",
+        "market_stall": 25,
+        "business": "Lvmh Moet Henne",
+        "country": "France",
+        "sector": ["Textiles", "clothing and luxury items"],
+        "market_capitalization": 305.68 
+    },
+    {
+        "id": "26",
+        "market_stall": 26,
+        "business": "Coca-Cola Co",
+        "country": "United States",
+        "sector": ["Beverages"],
+        "market_capitalization": 285.94 
+    },
+    {
+        "id": "27",
+        "market_stall": 27,
+        "business": "Eli Lilly & Co",
+        "country": "United States",
+        "sector": ["Pharmaceutical"],
+        "market_capitalization": 284.46 
+    },
+    {
+        "id": "28",
+        "market_stall": 28,
+        "business": "Pfizer Inc",
+        "country": "United States",
+        "sector": ["Pharmaceutical"],
+        "market_capitalization": 284.30
+    },
+    {
+        "id": "29",
+        "market_stall": 29,
+        "business": "Bank Of America",
+        "country": "United States",
+        "sector": ["Banks"],
+        "market_capitalization": 280.46 
+    },
+    {
+        "id": "30",
+        "market_stall": 30,
+        "business": "Abbvie Inc",
+        "country": "United States",
+        "sector": ["Biotechnology"],
+        "market_capitalization": 274.73 
+    },
+    {
+        "id": "31",
+        "market_stall": 31,
+        "business": "Roche",
+        "country": "Swiss",
+        "sector": ["Pharmaceutical"],
+        "market_capitalization": 266.47 
+    },
+    {
+        "id": "32",
+        "market_stall": 32,
+        "business": "Toyota Motor",
+        "country": "Japan",
+        "sector": ["Automobiles"],
+        "market_capitalization": 258.05 
+    },
+    {
+        "id": "33",
+        "market_stall": 33,
+        "business": "Pepsico Inc",
+        "country": "United States",
+        "sector": ["Beverages"],
+        "market_capitalization": 242.62 
+    },
+    {
+        "id": "34",
+        "market_stall": 34,
+        "business": "Novo Nordisk",
+        "country": "Denmark",
+        "sector": ["Pharmaceutical"],
+        "market_capitalization": 240.31
+    },
+    {
+        "id": "35",
+        "market_stall": 35,
+        "business": "ICBC",
+        "country": "China",
+        "sector": ["Banks"],
+        "market_capitalization": 238.41 
+    },
+    {
+        "id": "36",
+        "market_stall": 36,
+        "business": "Broadcom Inc",
+        "country": "United States",
+        "sector": ["Semiconductors"],
+        "market_capitalization": 237.89 
+    },
+    {
+        "id": "37",
+        "market_stall": 37,
+        "business": "Alibaba",
+        "country": "China",
+        "sector": ["Internet retail"],
+        "market_capitalization": 234.44
+    },
+    {
+        "id": "38",
+        "market_stall": 38,
+        "business": "Merck & Co",
+        "country": "United States",
+        "sector": ["Pharmaceutical"],
+        "market_capitalization": 233.46 
+    },
+    {
+        "id": "39",
+        "market_stall": 39,
+        "business": "ASML Holding",
+        "country": "Netherlands",
+        "sector": ["Semiconductors"],
+        "market_capitalization": 219.44 
+    },
+    {
+        "id": "40",
+        "market_stall": 40,
+        "business": "Costco Wholesale",
+        "country": "United States",
+        "sector": ["Retail"],
+        "market_capitalization": 219.19 
+    },
+    {
+        "id": "41",
+        "market_stall": 41,
+        "business": "Shell",
+        "country": "United Kingdom",
+        "sector": ["Petroleum"],
+        "market_capitalization": 218.01 
+    },
+    {
+        "id": "42",
+        "market_stall": 42,
+        "business": "Novartis",
+        "country": "Swiss",
+        "sector": ["Pharmaceutical"],
+        "market_capitalization": 214.52 
+    },
+    {
+        "id": "43",
+        "market_stall": 43,
+        "business": "Reliance Inds",
+        "country": "India",
+        "sector": ["Petroleum"],
+        "market_capitalization": 211.91 
+    },
+    {
+        "id": "44",
+        "market_stall": 44,
+        "business": "Thermo Fisher",
+        "country": "United States",
+        "sector": ["Health"],
+        "market_capitalization": 211.15 
+    },
+    {
+        "id": "45",
+        "market_stall": 45,
+        "business": "Verizon Communic",
+        "country": "United States",
+        "sector": ["Communications"],
+        "market_capitalization": 205.95 
+    },
+    {
+        "id": "46",
+        "market_stall": 46,
+        "business": "Cisco Systems",
+        "country": "United States",
+        "sector": ["Communications"],
+        "market_capitalization": 203.55
+    },
+    {
+        "id": "47",
+        "market_stall": 47,
+        "business": "Astrazeneca",
+        "country": "United Kingdom",
+        "sector": ["Pharmaceutical"],
+        "market_capitalization": 202.32 
+    },
+    {
+        "id": "48",
+        "market_stall": 48,
+        "business": "Abbott Labs",
+        "country": "United States",
+        "sector": ["Health"],
+        "market_capitalization": 192.10
+    },
+    {
+        "id": "49",
+        "market_stall": 49,
+        "business": "Walt Disney Co",
+        "country": "United States",
+        "sector": ["Entertainment"],
+        "market_capitalization": 191.58 
+    },
+    {
+        "id": "50",
+        "market_stall": 50,
+        "business": "Adobe Inc",
+        "country": "United States",
+        "sector": ["Technology", "Software"],
+        "market_capitalization": 190.35 
+    },
+    {
+        "id": "51",
+        "market_stall": 51,
+        "business": "Accenture Plc",
+        "country": "Ireland",
+        "sector": ["IT services"],
+        "market_capitalization": 189.84 
+    },
+    {
+        "id": "52",
+        "market_stall": 52,
+        "business": "Comcast Corp",
+        "country": "United States",
+        "sector": ["Communications"],
+        "market_capitalization": 187.58 
+    },
+    {
+        "id": "53",
+        "market_stall": 53,
+        "business": "Oracle Corp",
+        "country": "United States",
+        "sector": ["Technology", "Software"],
+        "market_capitalization": 186.00
+    },
+    {
+        "id": "54",
+        "market_stall": 54,
+        "business": "L’Oreal",
+        "country": "France",
+        "sector": ["personal products"],
+        "market_capitalization": 184.85 
+    },
+    {
+        "id": "55",
+        "market_stall": 55,
+        "business": "Mcdonalds Corp",
+        "country": "United States",
+        "sector": ["Hotels", "Restaurants"],
+        "market_capitalization": 180.48 
+    },
+    {
+        "id": "56",
+        "market_stall": 56,
+        "business": "Danaher Corp",
+        "country": "United States",
+        "sector": ["Health"],
+        "market_capitalization": 179.13 
+    },
+    {
+        "id": "57",
+        "market_stall": 57,
+        "business": "Nike Inc",
+        "country": "United States",
+        "sector": ["Textiles", "clothing and luxury items"],
+        "market_capitalization": 177.21
+    },
+    {
+        "id": "58",
+        "market_stall": 58,
+        "business": "Intel Corp",
+        "country": "United States",
+        "sector": ["Semiconductors"],
+        "market_capitalization": 176.15 
+    },
+    {
+        "id": "59",
+        "market_stall": 59,
+        "business": "Ccb-H",
+        "country": "China",
+        "sector": ["Banks"],
+        "market_capitalization": 176.02 
+    },
+    {
+        "id": "60",
+        "market_stall": 60,
+        "business": "Philip Morris",
+        "country": "United States",
+        "sector": ["Tobacco"],
+        "market_capitalization": 164.17 
+    },
+    {
+        "id": "61",
+        "market_stall": 61,
+        "business": "Bristol-Myer Sqb",
+        "country": "United States",
+        "sector": ["Pharmaceutical"],
+        "market_capitalization": 163.75 
+    },
+    {
+        "id": "62",
+        "market_stall": 62,
+        "business": "Salesforce",
+        "country": "United States",
+        "sector": ["Technology", "Software"],
+        "market_capitalization": 163.12
+    },
+    {
+        "id": "63",
+        "market_stall": 63,
+        "business": "Bhp Group Ltd",
+        "country": "Australia",
+        "sector": ["Metals and mining"],
+        "market_capitalization": 161.16 
+    },
+    {
+        "id": "64",
+        "market_stall": 64,
+        "business": "Wells Fargo & Co",
+        "country": "United States",
+        "sector": ["Banks"],
+        "market_capitalization": 159.99
+    },
+    {
+        "id": "65",
+        "market_stall": 65,
+        "business": "Tata Consultancy",
+        "country": "India",
+        "sector": ["IT services"],
+        "market_capitalization": 159.45
+    },
+    {
+        "id": "66",
+        "market_stall": 66,
+        "business": "T-Mobile Us Inc",
+        "country": "United States",
+        "sector": ["Communications"],
+        "market_capitalization": 158.64 
+    },
+    {
+        "id": "67",
+        "market_stall": 67,
+        "business": "United Parcel",
+        "country": "United States",
+        "sector": ["Air transport and logistics"],
+        "market_capitalization": 157.08 
+    },
+    {
+        "id": "68",
+        "market_stall": 68,
+        "business": "Linde Plc",
+        "country": "United Kingdom",
+        "sector": ["Chemical products"],
+        "market_capitalization": 155.56 
+    },
+    {
+        "id": "69",
+        "market_stall": 69,
+        "business": "Texas Instrument",
+        "country": "United States",
+        "sector": ["Semiconductors"],
+        "market_capitalization": 155.38 
+    },
+    {
+        "id": "70",
+        "market_stall": 70,
+        "business": "ABC",
+        "country": "China",
+        "sector": ["Banks"],
+        "market_capitalization": 154.37 
+    },
+    {
+        "id": "71",
+        "market_stall": 71,
+        "business": "AMD",
+        "country": "United States",
+        "sector": ["Semiconductors"],
+        "market_capitalization": 152.72 
+    },
+    {
+        "id": "72",
+        "market_stall": 72,
+        "business": "Qualcomm Inc",
+        "country": "United States",
+        "sector": ["Semiconductors"],
+        "market_capitalization": 149.98 
+    },
+    {
+        "id": "73",
+        "market_stall": 73,
+        "business": "At&T Inc",
+        "country": "United States",
+        "sector": ["Communications"],
+        "market_capitalization": 145.18 
+    },
+    {
+        "id": "74",
+        "market_stall": 74,
+        "business": "Union Pac Corp",
+        "country": "United States",
+        "sector": ["Road and rail"],
+        "market_capitalization": 143.12 
+    },
+    {
+        "id": "75",
+        "market_stall": 75,
+        "business": "China Mobile",
+        "country": "Hong Kong",
+        "sector": ["Communications"],
+        "market_capitalization": 142.50 
+    },
+    {
+        "id": "76",
+        "market_stall": 76,
+        "business": "Totalenergies",
+        "country": "France",
+        "sector": ["Energetic"],
+        "market_capitalization": 142.13 
+    },
+    {
+        "id": "77",
+        "market_stall": 77,
+        "business": "Contemporary Amp Tech",
+        "country": "China",
+        "sector": ["Energetic"],
+        "market_capitalization": 141.02
+    },
+    {
+        "id": "78",
+        "market_stall": 78,
+        "business": "Morgan Stanley",
+        "country": "United States",
+        "sector": ["Banks"],
+        "market_capitalization": 139.77
+    },
+    {
+        "id": "79",
+        "market_stall": 79,
+        "business": "Medtronic Plc",
+        "country": "Ireland",
+        "sector": ["Health"],
+        "market_capitalization": 139.27
+    },
+    {
+        "id": "80",
+        "market_stall": 80,
+        "business": "Royal Bank Of Canada",
+        "country": "Canada",
+        "sector": ["Banks"],
+        "market_capitalization": 139.12
+    },
+    {
+        "id": "81",
+        "market_stall": 81,
+        "business": "China Merch Bk",
+        "country": "China",
+        "sector": ["Banks"],
+        "market_capitalization": 138.54
+    },
+    {
+        "id": "82",
+        "market_stall": 82,
+        "business": "Nextera Energy",
+        "country": "United States",
+        "sector": ["Energetic"],
+        "market_capitalization": 137.75 
+    },
+    {
+        "id": "83",
+        "market_stall": 83,
+        "business": "Raytheon Technologies",
+        "country": "United States",
+        "sector": ["Aerospace"],
+        "market_capitalization": 137.54
+    },
+    {
+        "id": "84",
+        "market_stall": 84,
+        "business": "Conocophillips",
+        "country": "United States",
+        "sector": ["Petroleum"],
+        "market_capitalization": 136.46
+    },
+    {
+        "id": "85",
+        "market_stall": 85,
+        "business": "Petrochina",
+        "country": "China",
+        "sector": ["Petroleum"],
+        "market_capitalization": 133.34
+    },
+    {
+        "id": "86",
+        "market_stall": 86,
+        "business": "Sanofi",
+        "country": "France",
+        "sector": ["Pharmaceutical"],
+        "market_capitalization": 133.24
+    },
+    {
+        "id": "87",
+        "market_stall": 87,
+        "business": "Honeywell Intl",
+        "country": "United States",
+        "sector": ["Industry"],
+        "market_capitalization": 132.02
+    },
+    {
+        "id": "88",
+        "market_stall": 88,
+        "business": "Bank Of China-H",
+        "country": "China",
+        "sector": ["Banks"],
+        "market_capitalization": 130.93
+    },
+    {
+        "id": "89",
+        "market_stall": 89,
+        "business": "Amgen Inc",
+        "country": "United States",
+        "sector": ["Biotechnology"],
+        "market_capitalization": 130.28
+    },
+    {
+        "id": "90",
+        "market_stall": 90,
+        "business": "Toronto Dom Bank",
+        "country": "Canada",
+        "sector": ["Banks"],
+        "market_capitalization": 129.48
+    },
+    {
+        "id": "91",
+        "market_stall": 91,
+        "business": "CVS Health Corp",
+        "country": "United States",
+        "sector": ["Pharmaceutical"],
+        "market_capitalization": 129.23 
+    },
+    {
+        "id": "92",
+        "market_stall": 92,
+        "business": "Meituan",
+        "country": "China",
+        "sector": ["Retail"],
+        "market_capitalization": 128.80
+    },
+    {
+        "id": "93",
+        "market_stall": 93,
+        "business": "Lowe’S",
+        "country": "United States",
+        "sector": ["Retail"],
+        "market_capitalization": 128.74
+    },
+    {
+        "id": "94",
+        "market_stall": 94,
+        "business": "Blackstone Inc",
+        "country": "United States",
+        "sector": ["Banks"],
+        "market_capitalization": 125.31
+    },
+    {
+        "id": "95",
+        "market_stall": 95,
+        "business": "HSBC",
+        "country": "United Kingdom",
+        "sector": ["Banks"],
+        "market_capitalization": 125.10
+    },
+    {
+        "id": "96",
+        "market_stall": 96,
+        "business": "Commonwealth Bank of Australia",
+        "country": "Australia",
+        "sector": ["Banks"],
+        "market_capitalization": 123.88
+    },
+    {
+        "id": "97",
+        "market_stall": 97,
+        "business": "IBM",
+        "country": "United States",
+        "sector": ["Technology", "Hardware"],
+        "market_capitalization": 121.45
+    },
+    {
+        "id": "98",
+        "market_stall": 98,
+        "business": "Schwab",
+        "country": "United States",
+        "sector": ["Banks"],
+        "market_capitalization": 121.44
+    },
+    {
+        "id": "99",
+        "market_stall": 99,
+        "business": "International Holding Co",
+        "country": "United Arab Emirates",
+        "sector": ["Industry"],
+        "market_capitalization": 121.00
+    },
+    {
+        "id": "100",
+        "market_stall": 100,
+        "business": "SAP",
+        "country": "Germany",
+        "sector": ["Technology", "Software"],
+        "market_capitalization": 120.91
+    }
+]
