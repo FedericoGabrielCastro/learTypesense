@@ -9,6 +9,7 @@ const App = () => {
         <InstantSearch indexName="business" searchClient={searchClient}>
             <CustomNavbar />
             <CustomRoutes />
+            Este va a ser el cambio que subo 
         </InstantSearch>
     )
 }
